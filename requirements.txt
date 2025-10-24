@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+scipy
+regex  # re modülü için, ama standart olduğu için opsiyonel
